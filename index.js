@@ -46,27 +46,34 @@
 
 // 5-masala
 
-// let a = +prompt("1-sonni kiriting"),
-//   b = +prompt("2-sonni kiriting"),
-//   c = +prompt("3-sonni kiriting"),
-//   musbatCount = null,
-//   manfiyCount = null;
+// let a = +prompt("1-son");
+// let b = +prompt("2-son");
+// let c = +prompt("3-son");
+// let musbatCount = 0;
+// let manfiyCount = 0;
+
 // if (a > 0) {
 //   musbatCount++;
-// } else if (b > 0) {
-//   musbatCount++;
-// } else if (c > 0) {
-//   musbatCount++;
-// } else if (a < 0) {
+// } else {
 //   manfiyCount++;
-// } else if (b < 0) {
-//   musbatCount++;
-// } else if (c < 0) {
-//   musbatCount++;
 // }
 
-// console.log("Musbat sonlar " + musbatCount + " ta");
-// console.log("Manfiy sonlar " + manfiyCount + " ta");
+// if (b > 0) {
+//   musbatCount++;
+// } else {
+//   manfiyCount++;
+// }
+
+// if (c > 0) {
+//   musbatCount++;
+// } else {
+//   manfiyCount++;
+// }
+
+
+// console.log("musbat" +musbatCount );
+// console.log("manfiy" +manfiyCount );
+
 
 // 6-masala
 
