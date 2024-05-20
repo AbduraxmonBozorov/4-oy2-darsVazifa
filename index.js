@@ -158,22 +158,29 @@
 
 // 11-masala
 
-// let a = +prompt("A-sonni kiriting"),
-//   b = +prompt("B-sonni kiriting A sondan kichik bo'lsin!");
-// if(a!=b){
-//    if(a>b){
-//     a=a;
-//     b=a;
-//    }else{
-//     b=b;
-//     a=b;
-//    }
-// }else{
-//     a=0;
-//     b=0;
+// let a = +prompt("1-son");
+// let b = +prompt("2-son");
+// let c;
+// if(a==b){
+//   a=0;
+//   b=0;
 // }
-// console.log("A = "+a);
-// console.log("B = "+b);
+// else if(a>b){
+//   c=a;
+//   a=c;
+//   b=c;
+// }
+// else{
+//   c=b;
+//   a=c;
+//   b=c;
+// }
+
+// console.log(a);
+// console.log(b);
+
+
+
 
 // 12-masala
 
