@@ -70,10 +70,8 @@
 //   manfiyCount++;
 // }
 
-
 // console.log("musbat" +musbatCount );
 // console.log("manfiy" +manfiyCount );
-
 
 // 6-masala
 
@@ -96,20 +94,25 @@
 // }
 
 // 8-masala
+// let a = +prompt("1-son");
+// let b = +prompt("2-son");
 
-// let a = +prompt("1-sonni kiriting"),
-//   b = +prompt("2-sonni kiriting"),
-//     kattaSon=null,
-//     kichikSon=null;
+// let max = 0;
+// let min = 0;
+
 // if (a > b) {
-//   kattaSon=a;
-//   kichikSon=b;
+//   max = a;
+//   min = b;
+// } else if (a == b) {
+//   max = "1- va 2- son o'zaro";
+//   min = "1- va 2- son o'zaro";
 // } else {
-//     kattaSon=b;
-//     kichikSon=a;
+//   max = b;
+//   min = a;
 // }
-// console.log(kattaSon);
-// console.log(kichikSon);
+
+// console.log(max);
+// console.log(min);
 
 // 9-masala
 
@@ -121,8 +124,6 @@
 
 //   console.log("A soni -" +a);
 //   console.log("B soni -" +b);
-
-
 
 // 10-masala
 // let a = +prompt("A-sonni kiriting"),
@@ -137,7 +138,6 @@
 // console.log("A = "+a);
 // console.log("B = "+b);
 
-
 // 11-masala
 
 // let a = +prompt("A-sonni kiriting"),
@@ -148,7 +148,7 @@
 //     b=a;
 //    }else{
 //     b=b;
-//     a=b;    
+//     a=b;
 //    }
 // }else{
 //     a=0;
@@ -156,7 +156,6 @@
 // }
 // console.log("A = "+a);
 // console.log("B = "+b);
-
 
 // 12-masala
 
@@ -174,9 +173,6 @@
 //     console.log(c);
 // }
 
-
-
-
 // 13-masala
 
 // let a=+prompt("1-sonni kiriting"),
@@ -185,10 +181,6 @@
 //     sum=null;
 // sum=(a+b+c)/3;
 // console.log(sum);
-
-
-
-
 
 // 14-masala
 
@@ -206,10 +198,6 @@
 //     console.log(c);
 //     console.log(b);
 // }
-
-
-
-
 
 // 15-masala
 
@@ -230,7 +218,3 @@
 //     console.log("2-son: "+b);
 //     console.log("3-son: "+c);
 // }
-
-
-
-
