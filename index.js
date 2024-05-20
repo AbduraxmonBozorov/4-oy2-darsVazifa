@@ -114,16 +114,34 @@
 // console.log(max);
 // console.log(min);
 
+
+
+
+
+
+
+
 // 9-masala
 
-// let a = +prompt("A-sonni kiriting"),
-//   b = +prompt("B-sonni kiriting A sondan kichik bo'lsin!");
+// let a = +prompt("1-son");
+// let b = +prompt("2-son");
+// let c;
 
-//   a=a*(-1);
-//   b=b*(-1);
+// if(a>b){
+//   c=a;
+//   a=b;
+//   b=c
+// }
+// console.log("B ->"+b);
+// console.log("A ->"+a);
 
-//   console.log("A soni -" +a);
-//   console.log("B soni -" +b);
+
+
+
+
+
+
+
 
 // 10-masala
 // let a = +prompt("A-sonni kiriting"),
