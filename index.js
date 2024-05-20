@@ -151,17 +151,79 @@
 // console.log("B = "+b);
 
 
+// 12-masala
+
+// let a=+prompt("1-sonni kiriting"),
+//     b=+prompt("2-sonni kiriting"),
+//     c=+prompt("3-sonni kiriting");
+// if(a<b & b<c){
+//     console.log(a);
+// } else if(b<a & a<c){
+//     console.log(b);
+// }else if(b>a & c>a){
+//     console.log(b);
+// }
+// else{
+//     console.log(c);
+// }
+
+
+
+
 // 13-masala
 
-let a=+prompt("1-sonni kiriting"),
-    b=+prompt("2-sonni kiriting"),
-    c=+prompt("3-sonni kiriting");
-if(a>b & b>c){
-    console.log(a);
-} else if(b>a & a>c){
-    console.log(b);
-}else{
-    console.log(c);
-}
+// let a=+prompt("1-sonni kiriting"),
+//     b=+prompt("2-sonni kiriting"),
+//     c=+prompt("3-sonni kiriting"),
+//     sum=null;
+// sum=(a+b+c)/3;
+// console.log(sum);
+
+
+
+
+
+// 14-masala
+
+// let a=+prompt("1-sonni kiriting"),
+//     b=+prompt("2-sonni kiriting"),
+//     c=+prompt("3-sonni kiriting");
+
+// if(a>b & b>c){
+//     console.log(a);
+//     console.log(c);
+// }else if(b>a & a>c){
+//     console.log(b);
+//     console.log(c);
+// }else if(c>a && a>b){
+//     console.log(c);
+//     console.log(b);
+// }
+
+
+
+
+
+// 15-masala
+
+// let a=+prompt("1-sonni kiriting"),
+//     b=+prompt("2-sonni kiriting"),
+//     c=+prompt("3-sonni kiriting");
+
+// if(a>b & b>c){
+//     console.log("1-son: "+a);
+//     console.log("2-son" +b);
+// }else if(b>a & a>c){
+//     console.log("2-son: "+b);
+//     console.log("1-son: "+a);
+// }else if(c>a  & a>b){
+//     console.log("3-son: "+c);
+//     console.log("1-son: "+a);
+// }else if(b>a & c>a){
+//     console.log("2-son: "+b);
+//     console.log("3-son: "+c);
+// }
+
+
 
 
